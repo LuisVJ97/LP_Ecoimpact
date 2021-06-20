@@ -1,0 +1,1785 @@
+.mediaViewInfo {
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Home;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Home_Class {
+	position: absolute;
+	width: 1920px;
+	height: 3947px;
+	background-color: rgba(245,245,245,1);
+	overflow: hidden;
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+.TerceraParte_Class {
+	position: absolute;
+	width: 1682.931px;
+	height: 1186.787px;
+	left: 280px;
+	top: 2632.213px;
+	overflow: visible;
+}
+.Manchas3_Class {
+	position: absolute;
+	width: 1042.083px;
+	height: 997.787px;
+	left: 640.848px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_8_Class {
+	fill: rgba(197,197,197,0.251);
+}
+.Trazado_8 {
+	overflow: visible;
+	position: absolute;
+	width: 1042.083px;
+	height: 997.787px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_9_Class {
+	fill: rgba(197,197,197,0.502);
+}
+.Trazado_9 {
+	overflow: visible;
+	position: absolute;
+	width: 772.727px;
+	height: 694.95px;
+	left: 181.818px;
+	top: 130.049px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_10_Class {
+	fill: rgba(197,197,197,1);
+}
+.Trazado_10 {
+	overflow: visible;
+	position: absolute;
+	width: 342.138px;
+	height: 259.323px;
+	left: 476.896px;
+	top: 271.737px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Elipse_6_Class {
+	fill: rgba(128,145,91,1);
+}
+.Elipse_6 {
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	height: 173px;
+	left: 571px;
+	top: 427.787px;
+}
+.Este_apartado_les_permite_a_lo_Class {
+	left: 991px;
+	top: 960.787px;
+	position: absolute;
+	overflow: visible;
+	width: 233px;
+	height: 133px;
+	text-align: center;
+	font-family: Economica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.ID28_Class {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 608px;
+	top: 464.787px;
+	overflow: visible;
+}
+.Este_apartado_les_permite_a_lo_o_Class {
+	left: 539px;
+	top: 608.787px;
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 106px;
+	text-align: center;
+	font-family: Economica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.Elipse_7_Class {
+	fill: rgba(128,145,91,1);
+}
+.Elipse_7 {
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	height: 173px;
+	left: 870px;
+	top: 427.787px;
+}
+.ID24_Class {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 907px;
+	top: 467.787px;
+	overflow: visible;
+}
+.Este_apartado_les_permite_a_lo_r_Class {
+	left: 841px;
+	top: 608.787px;
+	position: absolute;
+	overflow: visible;
+	width: 233px;
+	height: 129px;
+	text-align: center;
+	font-family: Economica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.Elipse_8_Class {
+	fill: rgba(128,145,91,1);
+}
+.Elipse_8 {
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	height: 173px;
+	left: 1169px;
+	top: 427.787px;
+}
+.ID25_Class {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 1206px;
+	top: 456.787px;
+	overflow: visible;
+}
+.Este_apartado_les_permite_ver__Class {
+	left: 1140px;
+	top: 608.787px;
+	position: absolute;
+	overflow: visible;
+	width: 233px;
+	height: 129px;
+	text-align: center;
+	font-family: Economica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.Elipse_9_Class {
+	fill: rgba(128,145,91,1);
+}
+.Elipse_9 {
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	height: 173px;
+	left: 721px;
+	top: 767.787px;
+}
+.ID27_Class {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 758px;
+	top: 801.787px;
+	overflow: visible;
+}
+.Elipse_10_Class {
+	fill: rgba(128,145,91,1);
+}
+.Elipse_10 {
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	height: 173px;
+	left: 1020px;
+	top: 767.787px;
+}
+.ID26_Class {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 1057px;
+	top: 801.787px;
+	overflow: visible;
+}
+.Este_apartado_les_permite_a_lo_z_Class {
+	left: 692px;
+	top: 960.787px;
+	position: absolute;
+	overflow: visible;
+	width: 233px;
+	height: 133px;
+	text-align: center;
+	font-family: Economica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.Celular-1_Class {
+	position: absolute;
+	width: 442px;
+	height: 863px;
+	left: 0px;
+	top: 323.787px;
+	overflow: visible;
+}
+.Rectngulo_10_Class {
+	fill: rgba(52,52,52,1);
+}
+.Rectngulo_10 {
+	position: absolute;
+	overflow: visible;
+	width: 442px;
+	height: 863px;
+	left: 0px;
+	top: 0px;
+}
+.Elipse_1_Class {
+	fill: rgba(107,107,107,1);
+	stroke: rgba(175,175,175,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Elipse_1 {
+	width: 67px;
+	height: 67px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(0px, 0px) matrix(1,0,0,1,187.5,763.5) rotate(-90deg);
+	transform-origin: center;
+}
+.Rectngulo_11_Class {
+	fill: rgba(107,107,107,1);
+}
+.Rectngulo_11 {
+	width: 16px;
+	height: 164px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(0px, 0px) matrix(1,0,0,1,210.5,-26.5) rotate(-90deg);
+	transform-origin: center;
+}
+.Rectngulo_23_Class {
+	fill: rgba(232,232,232,1);
+}
+.Rectngulo_23 {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 643px;
+	left: 14px;
+	top: 110px;
+}
+.Barra_ini_Class {
+	position: absolute;
+	width: 414px;
+	height: 61px;
+	left: 14px;
+	top: 693px;
+	overflow: visible;
+}
+.Rectngulo_25_Class {
+	fill: rgba(128,145,91,1);
+}
+.Rectngulo_25 {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 61px;
+	left: 0px;
+	top: 0px;
+}
+.ID3364044_1_Class {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 344px;
+	top: 10px;
+	overflow: visible;
+}
+.ID3801427_Class {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 18px;
+	top: 10px;
+	overflow: visible;
+}
+.ID3801363_Class {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 186.499px;
+	top: 11px;
+	overflow: visible;
+}
+.ID3363737_Class {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 105.281px;
+	top: 10px;
+	overflow: visible;
+}
+.ID3363977_Class {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 267.716px;
+	top: 10px;
+	overflow: visible;
+}
+.Slide3_Class {
+	position: absolute;
+	width: 381px;
+	height: 320px;
+	left: 31px;
+	top: 677.787px;
+	overflow: visible;
+}
+.Rectngulo_24_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectngulo_24 {
+	position: absolute;
+	overflow: visible;
+	width: 381px;
+	height: 320px;
+	left: 0px;
+	top: 0px;
+}
+.ID3364044_1_be_Class {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 327px;
+	top: 11px;
+	overflow: visible;
+}
+.Componente_28__1_Class {
+	transform: translate(0px, 0px) matrix(1,0,0,1,8.5,17.5) rotate(-90deg);
+	transform-origin: center;
+	position: absolute;
+	width: 6px;
+	height: 12px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Lnea_9_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_9 {
+	overflow: visible;
+	position: absolute;
+	width: 6.707px;
+	height: 6.707px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Lnea_10_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_10 {
+	overflow: visible;
+	position: absolute;
+	width: 6.707px;
+	height: 6.707px;
+	left: 6px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Primeros_pasos_en_el_reciclaje_Class {
+	left: 20px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Economica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Esta_publicacin_se_me_hacia_mu_Class {
+	left: 20px;
+	top: 43px;
+	position: absolute;
+	overflow: visible;
+	width: 266px;
+	height: 81px;
+	text-align: left;
+	font-family: Economica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(125,125,125,1);
+}
+.ID3774667_Class {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	left: 342px;
+	top: 63px;
+	overflow: visible;
+}
+.ID3774667_bl_Class {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	left: 332px;
+	top: 63px;
+	overflow: visible;
+}
+.ID3774667_bm_Class {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	left: 352px;
+	top: 63px;
+	overflow: visible;
+}
+.Joao_UF_Class {
+	left: 339px;
+	top: 51px;
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Economica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	color: rgba(175,175,175,1);
+}
+.Trazado_7_bp_Class {
+	fill: url(#Trazado_7_bp);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_7_bp {
+	overflow: visible;
+	position: absolute;
+	width: 264px;
+	height: 215px;
+	left: 20px;
+	top: 86px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID482059_Class {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 139px;
+	top: 180px;
+	overflow: visible;
+}
+.ID1077035_Class {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 26px;
+	top: 304px;
+	overflow: visible;
+}
+.ID929610_Class {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 39px;
+	top: 304px;
+	overflow: visible;
+}
+.ID106816_Class {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 52px;
+	top: 304px;
+	overflow: visible;
+}
+.Slide2_Class {
+	position: absolute;
+	width: 381px;
+	height: 85px;
+	left: 31px;
+	top: 574.787px;
+	overflow: visible;
+}
+.Rectngulo_24_bv_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectngulo_24_bv {
+	position: absolute;
+	overflow: visible;
+	width: 381px;
+	height: 85px;
+	left: 0px;
+	top: 0px;
+}
+.ID3364044_1_bw_Class {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 327px;
+	top: 11px;
+	overflow: visible;
+}
+.Lnea_9_bx_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_9_bx {
+	overflow: visible;
+	position: absolute;
+	width: 6.707px;
+	height: 6.707px;
+	left: 8.5px;
+	top: 17.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Lnea_10_by_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_10_by {
+	overflow: visible;
+	position: absolute;
+	width: 6.707px;
+	height: 6.707px;
+	left: 8.5px;
+	top: 23.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Primeros_pasos_en_el_reciclaje_bz_Class {
+	left: 20px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Economica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.En_este_video_les_enseare_a_se_Class {
+	left: 20px;
+	top: 43px;
+	position: absolute;
+	overflow: visible;
+	width: 266px;
+	height: 30px;
+	text-align: left;
+	font-family: Economica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(125,125,125,1);
+}
+.ID3774667_b_Class {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	left: 342px;
+	top: 63px;
+	overflow: visible;
+}
+.ID3774667_ca_Class {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	left: 332px;
+	top: 63px;
+	overflow: visible;
+}
+.ID3774667_cb_Class {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	left: 352px;
+	top: 63px;
+	overflow: visible;
+}
+.Joao_UF_b_Class {
+	left: 338px;
+	top: 51px;
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Economica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	color: rgba(175,175,175,1);
+}
+.Slide1_Class {
+	position: absolute;
+	width: 381px;
+	height: 85px;
+	left: 31px;
+	top: 471.787px;
+	overflow: visible;
+}
+.Rectngulo_24_b_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectngulo_24_b {
+	position: absolute;
+	overflow: visible;
+	width: 381px;
+	height: 85px;
+	left: 0px;
+	top: 0px;
+}
+.ID3364044_1_b_Class {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 327px;
+	top: 11px;
+	overflow: visible;
+}
+.Lnea_9_b_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_9_b {
+	overflow: visible;
+	position: absolute;
+	width: 6.707px;
+	height: 6.707px;
+	left: 8.5px;
+	top: 17.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Lnea_10_b_Class {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_10_b {
+	overflow: visible;
+	position: absolute;
+	width: 6.707px;
+	height: 6.707px;
+	left: 8.5px;
+	top: 23.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Primeros_pasos_en_el_reciclaje_ca_Class {
+	left: 20px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Economica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.En_este_video_les_explicare_co_Class {
+	left: 20px;
+	top: 43px;
+	position: absolute;
+	overflow: visible;
+	width: 266px;
+	height: 30px;
+	text-align: left;
+	font-family: Economica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(125,125,125,1);
+}
+.ID3774667_cc_Class {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	left: 342px;
+	top: 63px;
+	overflow: visible;
+}
+.ID3774667_cd_Class {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	left: 332px;
+	top: 63px;
+	overflow: visible;
+}
+.ID3774667_ce_Class {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	left: 352px;
+	top: 63px;
+	overflow: visible;
+}
+.Joao_UF_cf_Class {
+	left: 338px;
+	top: 52px;
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Economica;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	color: rgba(175,175,175,1);
+}
+.FUNCIONES_Class {
+	left: 540px;
+	top: 107.787px;
+	position: absolute;
+	overflow: visible;
+	width: 282px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Leelawadee UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(63,100,62,1);
+}
+.SegundoParte_Class {
+	position: absolute;
+	width: 2000.061px;
+	height: 1489.381px;
+	left: -190.061px;
+	top: 1128.618px;
+	overflow: visible;
+}
+.Celular2_Class {
+	position: absolute;
+	width: 442px;
+	height: 863px;
+	left: 1558.061px;
+	top: 361.382px;
+	overflow: visible;
+}
+.Rectngulo_10_cj_Class {
+	fill: rgba(52,52,52,1);
+}
+.Rectngulo_10_cj {
+	position: absolute;
+	overflow: visible;
+	width: 442px;
+	height: 863px;
+	left: 0px;
+	top: 0px;
+}
+.Elipse_1_ck_Class {
+	fill: rgba(107,107,107,1);
+	stroke: rgba(175,175,175,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Elipse_1_ck {
+	width: 67px;
+	height: 67px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(0px, 0px) matrix(1,0,0,1,187.5,763.5) rotate(-90deg);
+	transform-origin: center;
+}
+.Rectngulo_11_cl_Class {
+	fill: rgba(107,107,107,1);
+}
+.Rectngulo_11_cl {
+	width: 16px;
+	height: 164px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(0px, 0px) matrix(1,0,0,1,210.5,-26.5) rotate(-90deg);
+	transform-origin: center;
+}
+.Rectngulo_23_cm_Class {
+	fill: rgba(232,232,232,1);
+}
+.Rectngulo_23_cm {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 643px;
+	left: 14px;
+	top: 110px;
+}
+.ID10_Class {
+	position: absolute;
+	width: 135px;
+	height: 135px;
+	left: 154px;
+	top: 316px;
+	overflow: visible;
+}
+.ECO_IMPACT_Class {
+	left: 161px;
+	top: 484px;
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Leelawadee UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(63,100,62,1);
+}
+.Manchas_2_Class {
+	position: absolute;
+	width: 1446.8px;
+	height: 1489.381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_4_Class {
+	fill: rgba(161,129,97,0.639);
+}
+.Trazado_4 {
+	overflow: visible;
+	position: absolute;
+	width: 1446.8px;
+	height: 1489.381px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_5_Class {
+	fill: rgba(159,129,100,0.58);
+}
+.Trazado_5 {
+	overflow: visible;
+	position: absolute;
+	width: 960.546px;
+	height: 1037.978px;
+	left: 177.395px;
+	top: 294.237px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_6_Class {
+	fill: rgba(114,93,72,1);
+}
+.Trazado_6 {
+	overflow: visible;
+	position: absolute;
+	width: 394.887px;
+	height: 488.157px;
+	left: 183.327px;
+	top: 643.879px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.DESCRIPCIN_Class {
+	left: 983.061px;
+	top: 163.382px;
+	position: absolute;
+	overflow: visible;
+	width: 327px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Leelawadee UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(63,100,62,1);
+}
+.Cuadro_4_Class {
+	position: absolute;
+	width: 385px;
+	height: 385px;
+	left: 958.061px;
+	top: 833.382px;
+	overflow: visible;
+}
+.Rectngulo_13_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectngulo_13 {
+	position: absolute;
+	overflow: visible;
+	width: 385px;
+	height: 385px;
+	left: 0px;
+	top: 0px;
+}
+.Nuestra_misin_es_promover_el_c_Class {
+	left: 36.5px;
+	top: 233px;
+	position: absolute;
+	overflow: visible;
+	width: 291px;
+	height: 86px;
+	text-align: left;
+	font-family: Comic Sans MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(119,119,119,1);
+}
+.Componente_18__1_Class {
+	position: absolute;
+	width: 63.76px;
+	height: 18px;
+	left: 36.5px;
+	top: 319px;
+	overflow: visible;
+}
+.Leer_ms__Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Comic Sans MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(193,193,193,1);
+}
+.Lnea_4_Class {
+	fill: transparent;
+	stroke: rgba(193,193,193,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_4 {
+	overflow: visible;
+	position: absolute;
+	width: 7px;
+	height: 1px;
+	left: 57.76px;
+	top: 9.87px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Lnea_7_Class {
+	fill: transparent;
+	stroke: rgba(193,193,193,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_7 {
+	overflow: visible;
+	position: absolute;
+	width: 3.674px;
+	height: 3.784px;
+	left: 61.5px;
+	top: 7.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Lnea_8_Class {
+	fill: transparent;
+	stroke: rgba(193,193,193,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_8 {
+	overflow: visible;
+	position: absolute;
+	width: 3.67px;
+	height: 4.04px;
+	left: 61.5px;
+	top: 9.87px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Solucin_de_la_app_Class {
+	left: 36.5px;
+	top: 174px;
+	position: absolute;
+	overflow: visible;
+	width: 220px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Comic Sans MS;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(65,65,65,1);
+}
+.ID20_Class {
+	position: absolute;
+	width: 107px;
+	height: 107px;
+	left: 36.5px;
+	top: 50px;
+	overflow: visible;
+}
+.Cuadro_3_Class {
+	position: absolute;
+	width: 385px;
+	height: 385px;
+	left: 452.061px;
+	top: 833.382px;
+	overflow: visible;
+}
+.Rectngulo_13_c_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectngulo_13_c {
+	position: absolute;
+	overflow: visible;
+	width: 385px;
+	height: 385px;
+	left: 0px;
+	top: 0px;
+}
+.Nuestra_visin_es_convertirnos__Class {
+	left: 36.5px;
+	top: 233px;
+	position: absolute;
+	overflow: visible;
+	width: 291px;
+	height: 86px;
+	text-align: left;
+	font-family: Comic Sans MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(119,119,119,1);
+}
+.Componente_18__1_c_Class {
+	position: absolute;
+	width: 63.76px;
+	height: 18px;
+	left: 36.5px;
+	top: 319px;
+	overflow: visible;
+}
+.Leer_ms__c_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Comic Sans MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(193,193,193,1);
+}
+.Lnea_4_c_Class {
+	fill: transparent;
+	stroke: rgba(193,193,193,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_4_c {
+	overflow: visible;
+	position: absolute;
+	width: 7px;
+	height: 1px;
+	left: 57.76px;
+	top: 9.87px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Lnea_7_da_Class {
+	fill: transparent;
+	stroke: rgba(193,193,193,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_7_da {
+	overflow: visible;
+	position: absolute;
+	width: 3.674px;
+	height: 3.784px;
+	left: 61.5px;
+	top: 7.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Lnea_8_db_Class {
+	fill: transparent;
+	stroke: rgba(193,193,193,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_8_db {
+	overflow: visible;
+	position: absolute;
+	width: 3.67px;
+	height: 4.04px;
+	left: 61.5px;
+	top: 9.87px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Solucin_de_la_app_dc_Class {
+	left: 36.5px;
+	top: 174px;
+	position: absolute;
+	overflow: visible;
+	width: 214px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Comic Sans MS;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(65,65,65,1);
+}
+.ID19_Class {
+	position: absolute;
+	width: 107px;
+	height: 107px;
+	left: 36.5px;
+	top: 50px;
+	overflow: visible;
+}
+.Cuadro_2_Class {
+	position: absolute;
+	width: 385px;
+	height: 385px;
+	left: 958.061px;
+	top: 359.382px;
+	overflow: visible;
+}
+.Rectngulo_13_df_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectngulo_13_df {
+	position: absolute;
+	overflow: visible;
+	width: 385px;
+	height: 385px;
+	left: 0px;
+	top: 0px;
+}
+.En_Eco_Impact_los_usuarios_pod_Class {
+	left: 36.5px;
+	top: 233px;
+	position: absolute;
+	overflow: visible;
+	width: 291px;
+	height: 86px;
+	text-align: left;
+	font-family: Comic Sans MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(119,119,119,1);
+}
+.Componente_18__1_dh_Class {
+	position: absolute;
+	width: 63.76px;
+	height: 18px;
+	left: 36.5px;
+	top: 319px;
+	overflow: visible;
+}
+.Leer_ms__di_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Comic Sans MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(193,193,193,1);
+}
+.Lnea_4_dj_Class {
+	fill: transparent;
+	stroke: rgba(193,193,193,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_4_dj {
+	overflow: visible;
+	position: absolute;
+	width: 7px;
+	height: 1px;
+	left: 57.76px;
+	top: 9.87px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Lnea_7_dk_Class {
+	fill: transparent;
+	stroke: rgba(193,193,193,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_7_dk {
+	overflow: visible;
+	position: absolute;
+	width: 3.674px;
+	height: 3.784px;
+	left: 61.5px;
+	top: 7.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Lnea_8_dl_Class {
+	fill: transparent;
+	stroke: rgba(193,193,193,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_8_dl {
+	overflow: visible;
+	position: absolute;
+	width: 3.67px;
+	height: 4.04px;
+	left: 61.5px;
+	top: 9.87px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.App_Benefits_Class {
+	left: 36.5px;
+	top: 174px;
+	position: absolute;
+	overflow: visible;
+	width: 294px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Comic Sans MS;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(65,65,65,1);
+}
+.ID18_Class {
+	position: absolute;
+	width: 107px;
+	height: 107px;
+	left: 36.5px;
+	top: 50px;
+	overflow: visible;
+}
+.Cuadro_1_Class {
+	position: absolute;
+	width: 385px;
+	height: 385px;
+	left: 452.061px;
+	top: 359.382px;
+	overflow: visible;
+}
+.Rectngulo_13_dp_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectngulo_13_dp {
+	position: absolute;
+	overflow: visible;
+	width: 385px;
+	height: 385px;
+	left: 0px;
+	top: 0px;
+}
+.En_Eco_Impact_nosotros_suminis_Class {
+	left: 36.5px;
+	top: 233px;
+	position: absolute;
+	overflow: visible;
+	width: 291px;
+	height: 86px;
+	text-align: left;
+	font-family: Comic Sans MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(119,119,119,1);
+}
+.Componente_18__1_dr_Class {
+	position: absolute;
+	width: 63.76px;
+	height: 18px;
+	left: 36.5px;
+	top: 319px;
+	overflow: visible;
+}
+.Leer_ms__ds_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Comic Sans MS;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(193,193,193,1);
+}
+.Lnea_4_dt_Class {
+	fill: transparent;
+	stroke: rgba(193,193,193,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_4_dt {
+	overflow: visible;
+	position: absolute;
+	width: 7px;
+	height: 1px;
+	left: 57.76px;
+	top: 9.87px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Lnea_7_du_Class {
+	fill: transparent;
+	stroke: rgba(193,193,193,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_7_du {
+	overflow: visible;
+	position: absolute;
+	width: 3.674px;
+	height: 3.784px;
+	left: 61.5px;
+	top: 7.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Lnea_8_dv_Class {
+	fill: transparent;
+	stroke: rgba(193,193,193,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_8_dv {
+	overflow: visible;
+	position: absolute;
+	width: 3.67px;
+	height: 4.04px;
+	left: 61.5px;
+	top: 9.87px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID17_Class {
+	position: absolute;
+	width: 107px;
+	height: 107px;
+	left: 46.5px;
+	top: 50px;
+	overflow: visible;
+}
+.Solucin_de_la_app_dx_Class {
+	left: 36.5px;
+	top: 174px;
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Comic Sans MS;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(65,65,65,1);
+}
+.PrimeraParte_Class {
+	position: absolute;
+	width: 1988.007px;
+	height: 1008px;
+	left: 133px;
+	top: 0px;
+	overflow: visible;
+}
+.Componente_15__1_Class {
+	position: absolute;
+	width: 1226.034px;
+	height: 958.939px;
+	left: 761.973px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_1_Class {
+	fill: rgba(197,197,197,0.251);
+}
+.Trazado_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1226.034px;
+	height: 958.939px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_2_Class {
+	fill: rgba(197,197,197,0.502);
+}
+.Trazado_2 {
+	overflow: visible;
+	position: absolute;
+	width: 801.303px;
+	height: 774.399px;
+	left: 221.648px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_3_Class {
+	fill: rgba(197,197,197,1);
+}
+.Trazado_3 {
+	overflow: visible;
+	position: absolute;
+	width: 283.918px;
+	height: 279.742px;
+	left: 741.109px;
+	top: 91.782px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ECO_IMPACT_d_Class {
+	left: 0px;
+	top: 213px;
+	position: absolute;
+	overflow: visible;
+	width: 592px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Economica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(63,100,62,1);
+}
+.USA_Class {
+	left: 5px;
+	top: 152px;
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Leelawadee UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 70px;
+	color: rgba(63,100,62,1);
+}
+.SALVA_AL_MUNDO_Class {
+	left: 5px;
+	top: 351px;
+	position: absolute;
+	overflow: visible;
+	width: 461px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Leelawadee UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(63,100,62,1);
+}
+.Eco_Impact_es_un_espacio_en_do_Class {
+	left: 5px;
+	top: 507px;
+	position: absolute;
+	overflow: hidden;
+	width: 702px;
+	height: 164px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 27px;
+	color: rgba(123,157,122,0.678);
+}
+.Componente_14__1_Class {
+	position: absolute;
+	width: 863px;
+	height: 442px;
+	left: 761.5px;
+	top: 319.5px;
+	overflow: visible;
+}
+.Rectngulo_10_d_Class {
+	fill: rgba(52,52,52,1);
+}
+.Rectngulo_10_d {
+	width: 442px;
+	height: 863px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(0px, 0px) matrix(1,0,0,1,210.5,-210.5) rotate(90deg);
+	transform-origin: center;
+}
+.Imagen_1_Class {
+	position: absolute;
+	width: 643px;
+	height: 414px;
+	left: 110.5px;
+	top: 13.5px;
+	overflow: visible;
+}
+.Elipse_1_ea_Class {
+	fill: rgba(107,107,107,1);
+}
+.Elipse_1_ea {
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	height: 67px;
+	left: 32.5px;
+	top: 187.5px;
+}
+.Rectngulo_11_eb_Class {
+	fill: rgba(107,107,107,1);
+}
+.Rectngulo_11_eb {
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	height: 164px;
+	left: 799.5px;
+	top: 136.5px;
+}
+.Componente_13__1_Class {
+	position: absolute;
+	width: 131px;
+	height: 44px;
+	left: 5px;
+	top: 57px;
+	overflow: visible;
+}
+.Imagen_logo_Class {
+	position: absolute;
+	width: 39px;
+	height: 39px;
+	left: 0px;
+	top: 2px;
+	overflow: visible;
+}
+.Faster_Revolution_Class {
+	left: 39px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(63,100,62,1);
+}
+.Componente_12__1_Class {
+	position: absolute;
+	width: 254px;
+	height: 61px;
+	left: 5px;
+	top: 672px;
+	overflow: visible;
+}
+.Elipse_3_Class {
+	fill: transparent;
+	stroke: rgba(63,100,62,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Elipse_3 {
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	height: 61px;
+	left: 0px;
+	top: 0px;
+}
+.Elipse_4_Class {
+	fill: transparent;
+	stroke: rgba(63,100,62,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Elipse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	height: 61px;
+	left: 193px;
+	top: 0px;
+}
+.Elipse_5_Class {
+	fill: transparent;
+	stroke: rgba(63,100,62,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Elipse_5 {
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	height: 61px;
+	left: 96px;
+	top: 0px;
+}
+.ID11_Class {
+	position: absolute;
+	width: 35px;
+	height: 35px;
+	left: 18px;
+	top: 685px;
+	overflow: visible;
+}
+.ID12_Class {
+	position: absolute;
+	width: 38px;
+	height: 38px;
+	left: 112px;
+	top: 684px;
+	overflow: visible;
+}
+.ID13_Class {
+	position: absolute;
+	width: 35px;
+	height: 35px;
+	left: 211px;
+	top: 685px;
+	overflow: visible;
+}
+.ID14_Class {
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	left: 5px;
+	top: 948px;
+	overflow: visible;
+}
+.ID15_Class {
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	left: 102px;
+	top: 948px;
+	overflow: visible;
+}
+.ID16_Class {
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	left: 199px;
+	top: 948px;
+	overflow: visible;
+}
